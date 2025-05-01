@@ -1,0 +1,9 @@
+# Built files
+build/
+nbproject/private/
+*.class
+
+# System files
+.DS_Store
+*.log
+
